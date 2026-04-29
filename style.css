@@ -68,10 +68,11 @@ html, body {
 
 .brand-name {
   font-family: var(--font-head);
-  font-size: 22px;
+  font-size: 15px;
   font-weight: 800;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   color: var(--accent);
+  line-height: 1.1;
 }
 
 .topbar-meta {
