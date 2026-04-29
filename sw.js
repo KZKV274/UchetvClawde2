@@ -2,7 +2,7 @@
    WAREHOUSE PWA — Service Worker
    ═══════════════════════════════════════════ */
 
-const CACHE_NAME = 'warehouse-v1';
+const CACHE_NAME = 'warehouse-v2';
 
 const ASSETS = [
   './',
